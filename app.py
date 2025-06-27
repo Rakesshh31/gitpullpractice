@@ -1,7 +1,7 @@
 # Sample Python code
 
 # Print a greeting
-print("Hello, World!")
+print("Hello, devops")
 
 # Define two numbers
 a = 5
